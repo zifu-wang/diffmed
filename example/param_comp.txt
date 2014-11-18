@@ -1,0 +1,8 @@
+maillage449ss.med               !!!! nom fichier maillage
+maillage449_tomega_resu.med     !!!! nom fichier solution ref
+maillage449ss_tomega_resu.med   !!!! nom fichier solution a comparer 
+HFIELD_REAL         !!!! nom du champ a comparer 
+ecart_2champs.med               !!!! nom fichier resultat
+champ_ecart         !!!! nom du resultat 
+xxxxxxxxxxxxxxxxxxxx!!!exemple 20!!!
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx!!!exemple 32!!!
